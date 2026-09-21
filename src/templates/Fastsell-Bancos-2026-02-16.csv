@@ -1,0 +1,9 @@
+﻿id;nome;agencia;conta;saldo_inicial
+b_gaveta;Conta Gaveta;000;GAVETA;0
+b_cofre;Cofre Central;000;COFRE;15000
+b_itau;Itaú Unibanco;1234;56789-0;25000
+b_nubank;Nubank (NuConta);0001;1234567-8;12000
+b_bb;Banco do Brasil;4321;102030-4;8500
+b_bradesco;Bradesco;0101;98765-4;18000
+b_inter;Banco Inter;0001;554433-2;5000
+b_xp;XP Investimentos;0001;778899-0;50000

@@ -1,0 +1,10 @@
+{
+  "name": "PDV FAST PRO - Modern Point of Sale",
+  "description": "A comprehensive, single-page POS system with inventory management, sales tracking, and thermal receipt generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

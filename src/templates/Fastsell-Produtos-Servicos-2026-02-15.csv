@@ -1,0 +1,61 @@
+﻿id;nome;preco_venda;preco_custo;categoria;codigo_barras;tipo;imagem_url
+h1;Classic Burger;28;12;Hambúrgueres;H001;Revenda;https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&q=80
+h2;Cheese Bacon;34;15;Hambúrgueres;H002;Revenda;https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=500&q=80
+h3;Double Cheddar;38;18;Hambúrgueres;H003;Revenda;https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=500&q=80
+h4;Monster Burger;45;22;Hambúrgueres;H004;Revenda;https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=500&q=80
+h5;Veggie Delight;32;14;Hambúrgueres;H005;Revenda;https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?w=500&q=80
+h6;Chicken Crispy;29;13;Hambúrgueres;H006;Revenda;https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=500&q=80
+h7;Picanha Premium;42;20;Hambúrgueres;H007;Revenda;https://images.unsplash.com/photo-1596662951482-0c4ba74a6df6?w=500&q=80
+h8;Smash Burger;22;9;Hambúrgueres;H008;Revenda;https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=500&q=80
+h9;Egg Burger;30;13;Hambúrgueres;H009;Revenda;https://images.unsplash.com/photo-1542574271-7f3b92e6c821?w=500&q=80
+h10;BBQ Special;36;16;Hambúrgueres;H010;Revenda;https://images.unsplash.com/photo-1550547660-d9450f859349?w=500&q=80
+p1;Pizza Margherita;48;18;Pizzas;P001;Revenda;https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=500&q=80
+p2;Pizza Pepperoni;55;22;Pizzas;P002;Revenda;https://images.unsplash.com/photo-1628840042765-356cda07504e?w=500&q=80
+p3;Pizza Calabresa;45;16;Pizzas;P003;Revenda;https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&q=80
+p4;Pizza Quatro Queijos;58;25;Pizzas;P004;Revenda;https://images.unsplash.com/photo-1573761812341-94881759f1aa?w=500&q=80
+p5;Pizza Portuguesa;52;20;Pizzas;P005;Revenda;https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&q=80
+p6;Pizza Frango c/ Catupiry;54;21;Pizzas;P006;Revenda;https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&q=80
+p7;Pizza Napolitana;49;19;Pizzas;P007;Revenda;https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=500&q=80
+p8;Pizza de Rúcula c/ Tomate Seco;62;28;Pizzas;P008;Revenda;https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=500&q=80
+p9;Pizza de Chocolate;45;18;Pizzas;P009;Revenda;https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=500&q=80
+p10;Pizza de Banana c/ Canela;42;15;Pizzas;P010;Revenda;https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=500&q=80
+s1;Coxinha de Frango;8;3;Salgados;S001;Revenda;https://images.unsplash.com/photo-1626074353765-517a681e40be?w=500&q=80
+s2;Kibe de Carne;8;3;Salgados;S002;Revenda;https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=500&q=80
+s3;Pastel de Carne;10;4;Salgados;S003;Revenda;https://images.unsplash.com/photo-1623653387945-2fd25214f8fc?w=500&q=80
+s4;Pastel de Queijo;10;4;Salgados;S004;Revenda;https://images.unsplash.com/photo-1623653387945-2fd25214f8fc?w=500&q=80
+s5;Empada de Palmito;9;3.5;Salgados;S005;Revenda;https://images.unsplash.com/photo-1619051805355-9b5162152e8d?w=500&q=80
+s6;Enroladinho de Salsicha;7;2.5;Salgados;S006;Revenda;https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=500&q=80
+s7;Risoles de Presunto e Queijo;8;3;Salgados;S007;Revenda;https://images.unsplash.com/photo-1626074353765-517a681e40be?w=500&q=80
+s8;Pão de Queijo (Unidade);5;1.5;Salgados;S008;Revenda;https://images.unsplash.com/photo-1598143158330-48cf90605f5b?w=500&q=80
+s9;Esfiha de Carne;8;3;Salgados;S009;Revenda;https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=500&q=80
+s10;Bolinho de Bacalhau;12;5;Salgados;S010;Revenda;https://images.unsplash.com/photo-1541529086526-db283c563270?w=500&q=80
+po1;Batata Frita Simples;25;8;Porções;PO001;Revenda;https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=500&q=80
+po2;Batata c/ Cheddar e Bacon;35;14;Porções;PO002;Revenda;https://images.unsplash.com/photo-1585109649139-366815a0d713?w=500&q=80
+po3;Tábua de Churrasco Mista;85;45;Porções;PO003;Revenda;https://images.unsplash.com/photo-1544025162-d76694265947?w=500&q=80
+po4;Calabresa Acebolada;38;15;Porções;PO004;Revenda;https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=500&q=80
+po5;Frango a Passarinho;42;18;Porções;PO005;Revenda;https://images.unsplash.com/photo-1562967914-608f82629710?w=500&q=80
+po6;Iscas de Peixe Empanado;55;25;Porções;PO006;Revenda;https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=500&q=80
+po7;Anéis de Cebola;28;10;Porções;PO007;Revenda;https://images.unsplash.com/photo-1639024471283-03518883512d?w=500&q=80
+po8;Polenta Frita;24;7;Porções;PO008;Revenda;https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=500&q=80
+po9;Bolinho de Queijo (Porção);32;12;Porções;PO009;Revenda;https://images.unsplash.com/photo-1626074353765-517a681e40be?w=500&q=80
+po10;Mix de Petiscos;68;30;Porções;PO010;Revenda;https://images.unsplash.com/photo-1541529086526-db283c563270?w=500&q=80
+b1;Coca-Cola Lata 350ml;7;3;Bebidas;B001;Revenda;https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&q=80
+b2;Suco de Laranja Natural;12;4;Bebidas;B002;Revenda;https://images.unsplash.com/photo-1613478223719-2ab802602423?w=500&q=80
+b3;Água Mineral 500ml;4;1;Bebidas;B003;Revenda;https://images.unsplash.com/photo-1523362628745-0c100150b504?w=500&q=80
+b4;Heineken Long Neck;14;6;Bebidas;B004;Revenda;https://images.unsplash.com/photo-1618885472179-5e474019f2a9?w=500&q=80
+b5;Vinho Tinto Cabernet;85;40;Bebidas;B005;Revenda;https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500&q=80
+b6;Gin Tônica Especial;32;12;Bebidas;B006;Revenda;https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500&q=80
+b7;Cerveja Brahma 600ml;16;8;Bebidas;B007;Revenda;https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=500&q=80
+b8;Suco de Uva Integral;15;7;Bebidas;B008;Revenda;https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=500&q=80
+b9;Refrigerante Guaraná 2L;14;6;Bebidas;B009;Revenda;https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&q=80
+b10;Whisky Red Label Dose;25;10;Bebidas;B010;Revenda;https://images.unsplash.com/photo-1527281400828-ac737a999b9a?w=500&q=80
+c1;Combo Casal (2 Burgers + Frita + Refri);75;35;Combos;C001;Produzido;https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=500&q=80
+c2;Combo Individual (Burger + Frita + Refri);42;20;Combos;C002;Produzido;https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=500&q=80
+c3;Combo Pizza + Refri 2L;65;30;Combos;C003;Produzido;https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&q=80
+c4;Combo Salgados (10 Unidades);70;30;Combos;C004;Produzido;https://images.unsplash.com/photo-1626074353765-517a681e40be?w=500&q=80
+c5;Combo Happy Hour (Porção + 2 Cervejas);55;25;Combos;C005;Produzido;https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=500&q=80
+srv1;Taxa de Entrega Padrão;10;0;Serviços;SRV001;Serviço;https://images.unsplash.com/photo-1582919138557-fb50c4941df9?w=500&q=80
+srv2;Consultoria Gastronômica;250;0;Serviços;SRV002;Serviço;https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&q=80
+srv3;Aluguel de Espaço p/ Eventos;500;0;Serviços;SRV003;Serviço;https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=500&q=80
+srv4;Taxa de Garçom (10%);0;0;Serviços;SRV004;Serviço;https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500&q=80
+srv5;Música ao Vivo (Couvert);15;0;Serviços;SRV005;Serviço;https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&q=80

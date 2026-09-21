@@ -1,0 +1,43 @@
+﻿id;nome;preco_venda;preco_custo;categoria;codigo_barras;tipo;imagem_url
+h1;Classic Burger;28;12;Hambúrgueres;H001;Revenda;https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&q=80
+h2;Cheese Bacon;34;15;Hambúrgueres;H002;Revenda;https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=500&q=80
+h3;Double Cheddar;38;18;Hambúrgueres;H003;Revenda;https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=500&q=80
+h4;Chicken Crispy;26;11;Hambúrgueres;H004;Revenda;https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=500&q=80
+h5;Veggie Deluxe;32;14;Hambúrgueres;H005;Revenda;https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?w=500&q=80
+h6;Monster Stack;45;22;Hambúrgueres;H006;Revenda;https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=500&q=80
+h7;Egg Burger;30;13;Hambúrgueres;H007;Revenda;https://images.unsplash.com/photo-1513185158878-8d8c182b013b?w=500&q=80
+h8;Picanha Grill;42;20;Hambúrgueres;H008;Revenda;https://images.unsplash.com/photo-1550547660-d9450f859349?w=500&q=80
+h9;Smash Simples;18;8;Hambúrgueres;H009;Revenda;https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500&q=80
+h10;Smash Duplo;24;10;Hambúrgueres;H010;Revenda;https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=500&q=80
+s1;Coxinha de Frango;8;3;Salgados;S001;Revenda;https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=500&q=80
+s2;Coxinha com Catupiry;9;3.5;Salgados;S002;Revenda;https://images.unsplash.com/photo-1585109649139-366815a0d713?w=500&q=80
+s3;Risole de Presunto/Queijo;8;3;Salgados;S003;Revenda;https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500&q=80
+s4;Kibe Tradicional;8;3;Salgados;S004;Revenda;https://images.unsplash.com/photo-1606491956689-2ea8c5119c85?w=500&q=80
+s5;Kibe com Queijo;9;3.5;Salgados;S005;Revenda;https://images.unsplash.com/photo-1541529086526-db283c563270?w=500&q=80
+s6;Enroladinho de Salsicha;7;2.5;Salgados;S006;Revenda;https://images.unsplash.com/photo-1514516348920-f5d92884112c?w=500&q=80
+s7;Empada de Palmito;10;4;Salgados;S007;Revenda;https://images.unsplash.com/photo-1619051805355-9b5162152e8d?w=500&q=80
+s8;Pastel de Carne;12;5;Salgados;S008;Revenda;https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=500&q=80
+s9;Bolinho de Queijo;8;3;Salgados;S009;Revenda;https://images.unsplash.com/photo-1541529086526-db283c563270?w=500&q=80
+s10;Risole de Milho;8;3;Salgados;S010;Revenda;https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500&q=80
+s11;Enroladinho de Presunto;8;3;Salgados;S011;Revenda;https://images.unsplash.com/photo-1514516348920-f5d92884112c?w=500&q=80
+s12;Empada de Frango;10;4;Salgados;S012;Revenda;https://images.unsplash.com/photo-1619051805355-9b5162152e8d?w=500&q=80
+b1;Coca-Cola Lata 350ml;7;3;Bebidas;B001;Revenda;https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&q=80
+b2;Guaraná Antarctica 350ml;7;3;Bebidas;B002;Revenda;https://images.unsplash.com/photo-1581006852262-e4307cf6283a?w=500&q=80
+b3;Fanta Laranja 350ml;7;3;Bebidas;B003;Revenda;https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=500&q=80
+b4;Suco de Laranja 500ml;12;5;Bebidas;B004;Revenda;https://images.unsplash.com/photo-1613478223719-2ab802602423?w=500&q=80
+b5;Água Mineral 500ml;5;1.5;Bebidas;B005;Revenda;https://images.unsplash.com/photo-1523362628745-0c100150b504?w=500&q=80
+b6;Heineken Long Neck;14;6;Bebidas;B006;Revenda;https://images.unsplash.com/photo-1618885472179-5e474019f2a9?w=500&q=80
+b7;Stella Artois 330ml;14;6;Bebidas;B007;Revenda;https://images.unsplash.com/photo-1608270586620-248524c67de9?w=500&q=80
+b8;Red Bull 250ml;16;8;Bebidas;B008;Revenda;https://images.unsplash.com/photo-1622543925917-763c34d15384?w=500&q=80
+b9;Café Expresso;6;1.5;Bebidas;B009;Revenda;https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=500&q=80
+b10;H2OH Limão 500ml;8;3.5;Bebidas;B010;Revenda;https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=500&q=80
+d1;Petit Gateau;22;8;Sobremesas;D001;Revenda;https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=500&q=80
+d2;Milkshake Chocolate;18;7;Sobremesas;D002;Revenda;https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500&q=80
+d3;Brownie com Sorvete;20;7;Sobremesas;D003;Revenda;https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=500&q=80
+d4;Pudim de Leite;12;4;Sobremesas;D004;Revenda;https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?w=500&q=80
+srv1;Entrega Expressa;15;0;Serviços;SRV001;Serviço;https://images.unsplash.com/photo-1580915411954-282cb1b0d780?w=500&q=80
+srv2;Taxa de Mesa / Couvert;10;0;Serviços;SRV002;Serviço;https://images.unsplash.com/photo-1550966841-3ee02b152443?w=500&q=80
+srv3;Consultoria Gastronômica;500;0;Serviços;SRV003;Serviço;https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&q=80
+srv4;Reserva de Espaço VIP;200;0;Serviços;SRV004;Serviço;https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500&q=80
+srv5;Garçom Particular;150;0;Serviços;SRV005;Serviço;https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500&q=80
+srv6;Taxa de Rolha;50;0;Serviços;SRV006;Serviço;https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=500&q=80

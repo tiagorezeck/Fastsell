@@ -1,0 +1,194 @@
+﻿id;codigo;nome;tipo;codigo_pai
+1;1;RECEITAS OPERACIONAIS;Receita;
+1.1;1.1;Receita de Vendas de Produtos;Receita;1
+1.2;1.2;Receita de Serviços;Receita;1
+2;2;DEDUÇÕES DA RECEITA;Dedução;
+2.1;2.1;Impostos Sobre Receita;Dedução;2
+2.2;2.2;Dedução de Venda;Dedução;2
+3;3;CUSTOS DIRETOS;Custo;
+3.1;3.1;CSP - Custo de Serviço Prestado;Custo;3
+3.1.1;3.1.1;Deslocamento para Atendimento;Custo;3.1
+3.1.2;3.1.2;Material Aplicado;Custo;3.1
+3.1.3;3.1.3;Royalties sobre Representação;Custo;3.1
+3.1.4;3.1.4;Serviços Terceirizados;Custo;3.1
+3.2;3.2;CMV - Custo de Mercadoria Vendida;Custo;3
+3.2.1;3.2.1;Frete de Material para Revenda;Custo;3.2
+3.2.2;3.2.2;Materiais para Revenda;Custo;3.2
+3.3;3.3;Custos Variáveis Comerciais;Custo;3
+3.3.1;3.3.1;Comissão de Vendedores;Custo;3.3
+3.3.2;3.3.2;Deslocamento Comercial;Custo;3.3
+3.3.3;3.3.3;Garantias;Custo;3.3
+4;4;DESPESAS OPERACIONAIS;Despesa;
+4.1;4.1;Recursos Humanos;Despesa;4
+4.1.1;4.1.1;Remuneração;Despesa;4.1
+4.1.1.1;4.1.1.1;Adiantamento Salarial;Despesa;4.1.1
+4.1.1.2;4.1.1.2;Remuneração de Estagiários;Despesa;4.1.1
+4.1.1.3;4.1.1.3;Salários;Despesa;4.1.1
+4.1.1.4;4.1.1.4;Horas extras;Despesa;4.1.1
+4.1.1.5;4.1.1.5;Recisões;Despesa;4.1.1
+4.1.2;4.1.2;Encargos sociais;Despesa;4.1
+4.1.2.1;4.1.2.1;FGTS;Despesa;4.1.2
+4.1.2.2;4.1.2.2;INSS;Despesa;4.1.2
+4.1.2.3;4.1.2.3;13o Salários;Despesa;4.1.2
+4.1.2.4;4.1.2.4;FGTS sobre 13º salário;Despesa;4.1.2
+4.1.2.5;4.1.2.5;INSS sobre 13º salário;Despesa;4.1.2
+4.1.2.6;4.1.2.6;Aviso prévio;Despesa;4.1.2
+4.1.2.7;4.1.2.7;FGTS sobre Férias;Despesa;4.1.2
+4.1.2.8;4.1.2.8;INSS sobre Férias;Despesa;4.1.2
+4.1.2.9;4.1.2.9;Férias;Despesa;4.1.2
+4.1.2.10;4.1.2.10;Provisionamento de Férias;Despesa;4.1.2
+4.1.2.11;4.1.2.11;Provisionamento de 13º;Despesa;4.1.2
+4.1.2.12;4.1.2.12;Provisionamento de Recisão;Despesa;4.1.2
+4.1.3;4.1.3;Benefícios;Despesa;4.1
+4.1.3.1;4.1.3.1;Abono;Despesa;4.1.3
+4.1.3.2;4.1.3.2;Bonificação;Despesa;4.1.3
+4.1.3.3;4.1.3.3;Cesta Básica;Despesa;4.1.3
+4.1.3.4;4.1.3.4;Gratificação;Despesa;4.1.3
+4.1.3.5;4.1.3.5;Plano de Saúde;Despesa;4.1.3
+4.1.3.6;4.1.3.6;(-) Coparticipação Plano de Saúde;Despesa;4.1.3
+4.1.3.7;4.1.3.7;Premiação;Despesa;4.1.3
+4.1.3.8;4.1.3.8;PLR - Participação nos Lucros;Despesa;4.1.3
+4.1.3.9;4.1.3.9;Treinamentos / Cursos / Formações;Despesa;4.1.3
+4.1.3.10;4.1.3.10;Vale Alimentação;Despesa;4.1.3
+4.1.3.11;4.1.3.11;Vale Refeição;Despesa;4.1.3
+4.1.3.12;4.1.3.12;Vale Transporte;Despesa;4.1.3
+4.1.3.13;4.1.3.13;Seguro de Vida;Despesa;4.1.3
+4.2;4.2;Ocupação e Estrutura;Despesa;4
+4.2.1;4.2.1;Água e Saneamento;Despesa;4.2
+4.2.2;4.2.2;Aluguel;Despesa;4.2
+4.2.3;4.2.3;Condomínio;Despesa;4.2
+4.2.4;4.2.4;Energia Elétrica;Despesa;4.2
+4.2.5;4.2.5;Gás;Despesa;4.2
+4.2.6;4.2.6;Seguro Imóvel;Despesa;4.2
+4.2.7;4.2.7;Telefonia / Internet;Despesa;4.2
+4.2.8;4.2.8;Vigilância e Segurança Patrimonial;Despesa;4.2
+4.3;4.3;Despesas Tributárias (não sobre venda);Despesa;4
+4.3.1;4.3.1;Alvará de Funcionamento;Despesa;4.3
+4.3.2;4.3.2;IPEM - INMETRO;Despesa;4.3
+4.3.3;4.3.3;IPTU;Despesa;4.3
+4.3.4;4.3.4;IPVA / CRLV / DPVAT;Despesa;4.3
+4.3.5;4.3.5;Taxa de Incêndio;Despesa;4.3
+4.3.6;4.3.6;Taxa de Lixo;Despesa;4.3
+4.3.7;4.3.7;Taxas Municipais;Despesa;4.3
+4.3.8;4.3.8;Taxas Estaduais;Despesa;4.3
+4.3.9;4.3.9;Transferência Veicular (DUDA);Despesa;4.3
+4.4;4.4;Uso e Consumo;Despesa;4
+4.4.1;4.4.1;Bens de Pequeno Valor;Despesa;4.4
+4.4.2;4.4.2;Ferramentas;Despesa;4.4
+4.4.3;4.4.3;Lanches e Refeições;Despesa;4.4
+4.4.4;4.4.4;Mantimentos;Despesa;4.4
+4.4.5;4.4.5;Material Escritório;Despesa;4.4
+4.4.6;4.4.6;Material Limpeza;Despesa;4.4
+4.4.7;4.4.7;Utensílios;Despesa;4.4
+4.5;4.5;Transporte;Despesa;4
+4.5.1;4.5.1;Aluguel de Veículos;Despesa;4.5
+4.5.2;4.5.2;Combustível;Despesa;4.5
+4.5.3;4.5.3;Estacionamento;Despesa;4.5
+4.5.4;4.5.4;Multas de Trânsito;Despesa;4.5
+4.5.5;4.5.5;Pedágios;Despesa;4.5
+4.5.6;4.5.6;Seguro de Veículos;Despesa;4.5
+4.5.7;4.5.7;Transporte Urbano (Táxi, Uber, 99);Despesa;4.5
+4.6;4.6;Manutenção;Despesa;4
+4.6.1;4.6.1;Manutenção Equipamentos;Despesa;4.6
+4.6.2;4.6.2;Manutenção Predial;Despesa;4.6
+4.6.3;4.6.3;Manutenção Veículos;Despesa;4.6
+4.7;4.7;Prestadores de Serviços;Despesa;4
+4.7.1;4.7.1;Aluguel de Equipamentos;Despesa;4.7
+4.7.2;4.7.2;Assessoria Jurídica;Despesa;4.7
+4.7.3;4.7.3;Cartório;Despesa;4.7
+4.7.4;4.7.4;Consultoria;Despesa;4.7
+4.7.5;4.7.5;Contabilidade;Despesa;4.7
+4.7.6;4.7.6;Correios;Despesa;4.7
+4.7.7;4.7.7;Software / Licença de Uso;Despesa;4.7
+4.8;4.8;Despesas com Sócios;Despesa;4
+4.8.1;4.8.1;Pró-Labore;Despesa;4.8
+4.8.2;4.8.2;Plano de Saúde Sócios;Despesa;4.8
+4.8.3;4.8.3;Plano Odontológico Sócios;Despesa;4.8
+4.8.4;4.8.4;Estadias e Hospedágens;Despesa;4.8
+4.8.5;4.8.5;Viagens e Translados;Despesa;4.8
+4.8.6;4.8.6;Representação dos Sócios;Despesa;4.8
+4.9;4.9;Marketing / Comercial;Despesa;4
+4.9.1;4.9.1;Agência de Marketing;Despesa;4.9
+4.9.2;4.9.2;Brindes;Despesa;4.9
+4.9.3;4.9.3;Campanhas;Despesa;4.9
+4.9.4;4.9.4;Feiras e Exposições;Despesa;4.9
+4.9.5;4.9.5;Investimento em Mídias;Despesa;4.9
+4.9.6;4.9.6;Publicidade e Propaganda;Despesa;4.9
+4.9.7;4.9.7;Tecnologias (IA, Landing Pages, Sites);Despesa;4.9
+4.9.8;4.9.8;Tráfego Pago;Despesa;4.9
+4.9.9;4.9.9;Viagens para Representações;Despesa;4.9
+4.10;4.10;Perdas Operacionais;Despesa;4
+4.10.1;4.10.1;Avarias de Produtos;Despesa;4.10
+4.10.2;4.10.2;Perda de Produtos (Vencimento);Despesa;4.10
+4.10.3;4.10.3;Perda em Alienação de Ativo;Despesa;4.10
+4.10.4;4.10.4;Perdas em Sinistro (Roubo/Incêndio);Despesa;4.10
+4.10.5;4.10.5;Inadimplência;Despesa;4.10
+4.10.6;4.10.6;(-) Indenizações de Seguros;Despesa;4.10
+4.10.7;4.10.7;(-) Recuperação de inadimplência;Despesa;4.10
+5;5;RESULTADO FINANCEIRO;Resultado Financeiro;
+5.1;5.1;Despesas Financeiras;Resultado Financeiro;5
+5.1.1;5.1.1;Descontos Financeiros Concedidos;Resultado Financeiro;5.1
+5.1.2;5.1.2;Impostos sobre Aplicações Financeiras;Resultado Financeiro;5.1
+5.1.3;5.1.3;Juros Conta Garantida;Resultado Financeiro;5.1
+5.1.4;5.1.4;Juros sobre Empréstimos;Resultado Financeiro;5.1
+5.1.5;5.1.5;Multas Financeiras Pagas;Resultado Financeiro;5.1
+5.1.6;5.1.6;Seguros de Empréstimos;Resultado Financeiro;5.1
+5.1.7;5.1.7;Tarifas Bancárias;Resultado Financeiro;5.1
+5.1.8;5.1.8;Tarifas de Boletos;Resultado Financeiro;5.1
+5.1.9;5.1.9;Tarifas de Cartão de Crédito;Resultado Financeiro;5.1
+5.1.10;5.1.10;Tarifas DOC / TED;Resultado Financeiro;5.1
+5.2;5.2;Receitas Financeiras;Resultado Financeiro;5
+5.2.1;5.2.1;Descontos Financeiros Obtidos;Resultado Financeiro;5.2
+5.2.2;5.2.2;Indenizações de Seguros;Resultado Financeiro;5.2
+5.2.3;5.2.3;Juros Recebidos;Resultado Financeiro;5.2
+5.2.4;5.2.4;Multas Recebidas;Resultado Financeiro;5.2
+5.2.5;5.2.5;Recuperação de Despesas Financeiras;Resultado Financeiro;5.2
+5.2.6;5.2.6;Rendimentos de Aplicações;Resultado Financeiro;5.2
+6;6;ATIVO;Ativo;
+6.1;6.1;ATIVO CIRCULANTE;Ativo;6
+6.1.1;6.1.1;Caixa;Ativo;6.1
+6.1.2;6.1.2;Bancos;Ativo;6.1
+6.1.3;6.1.3;Aplicações Financeiras;Ativo;6.1
+6.1.4;6.1.4;Clientes;Ativo;6.1
+6.1.5;6.1.5;(-) Provisão para Inadimplência;Ativo;6.1
+6.1.6;6.1.6;Estoques;Ativo;6.1
+6.1.7;6.1.7;Material para Revenda;Ativo;6.1
+6.1.8;6.1.8;Materiais para Aplicação em Serviços;Ativo;6.1
+6.2;6.2;ATIVO NÃO CIRCULANTE;Ativo;6
+6.2.1;6.2.1;Imobilizado;Ativo;6.2
+6.2.1.1;6.2.1.1;Veículos;Ativo;6.2.1
+6.2.1.2;6.2.1.2;Benfeitorias em Bens de Terceiros;Ativo;6.2.1
+6.2.1.3;6.2.1.3;Computadores e Periféricos;Ativo;6.2.1
+6.2.1.4;6.2.1.4;Construções - Imóvel Próprio;Ativo;6.2.1
+6.2.1.5;6.2.1.5;Imóveis;Ativo;6.2.1
+6.2.1.6;6.2.1.6;Móveis, Utensílios e Instalações;Ativo;6.2.1
+6.2.1.7;6.2.1.7;Outras Imobilizações;Ativo;6.2.1
+6.2.1.8;6.2.1.8;Terrenos;Ativo;6.2.1
+6.2.1.9;6.2.1.9;Investimentos;Ativo;6.2.1
+6.2.2;6.2.2;Leasing (direito de uso);Ativo;6.2
+6.2.2.1;6.2.2.1;Leasing - Imóvel;Ativo;6.2.2
+6.2.2.2;6.2.2.2;Leasing - Máquinas e Equipamentos;Ativo;6.2.2
+6.2.2.3;6.2.2.3;Leasing - Veículos;Ativo;6.2.2
+6.2.2.4;6.2.2.4;Leasing - Outras Imobilizações;Ativo;6.2.2
+6.2.3;6.2.3;(-) Depreciação Acumulada;Ativo;6.2
+6.2.3.1;6.2.3.1;Depreciação de Equipamentos;Ativo;6.2.3
+6.2.3.2;6.2.3.2;Depreciação de Imóveis;Ativo;6.2.3
+6.2.3.3;6.2.3.3;Depreciação de Móveis e Utensílios;Ativo;6.2.3
+6.2.3.4;6.2.3.4;Depreciação de Veículos;Ativo;6.2.3
+7;7;PASSIVO;Passivo;
+7.1;7.1;PASSIVO CIRCULANTE;Passivo;7
+7.1.1;7.1.1;Empréstimos Bancários;Passivo;7.1
+7.1.2;7.1.2;Empréstimos de Outras Instituições;Passivo;7.1
+7.1.3;7.1.3;Parcelamento do Simples Nacional;Passivo;7.1
+7.1.4;7.1.4;Parcelamentos de Impostos e Encargos;Passivo;7.1
+7.1.5;7.1.5;Mútuo a Pagar ao Sócio;Passivo;7.1
+7.1.6;7.1.6;INSS sobre Pró-Labore (GPS);Passivo;7.1
+7.1.7;7.1.7;IRRF sobre Pró-Labore (DARF);Passivo;7.1
+7.1.8;7.1.8;Juros Conta Garantida;Passivo;7.1
+7.2;7.2;PASSIVO NÃO CIRCULANTE;Passivo;7
+7.2.1;7.2.1;Parcelamentos LP;Passivo;7.2
+7.2.2;7.2.2;Empréstimos LP;Passivo;7.2
+8;8;PATRIMÔNIO LÍQUIDO;Patrimônio Líquido;
+8.1;8.1;Aporte;Patrimônio Líquido;8
+8.2;8.2;Pagamento de Dividendos;Patrimônio Líquido;8
+8.3;8.3;Resultado do Exercício;Patrimônio Líquido;8

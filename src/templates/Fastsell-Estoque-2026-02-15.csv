@@ -1,0 +1,56 @@
+﻿id;nome;estoque_atual;estoque_minimo;categoria
+h1;Classic Burger;50;10;Hambúrgueres
+h2;Cheese Bacon;50;10;Hambúrgueres
+h3;Double Cheddar;50;10;Hambúrgueres
+h4;Monster Burger;30;5;Hambúrgueres
+h5;Veggie Delight;20;5;Hambúrgueres
+h6;Chicken Crispy;40;10;Hambúrgueres
+h7;Picanha Premium;25;5;Hambúrgueres
+h8;Smash Burger;60;15;Hambúrgueres
+h9;Egg Burger;35;8;Hambúrgueres
+h10;BBQ Special;30;5;Hambúrgueres
+p1;Pizza Margherita;100;20;Pizzas
+p2;Pizza Pepperoni;100;20;Pizzas
+p3;Pizza Calabresa;100;20;Pizzas
+p4;Pizza Quatro Queijos;80;15;Pizzas
+p5;Pizza Portuguesa;80;15;Pizzas
+p6;Pizza Frango c/ Catupiry;80;15;Pizzas
+p7;Pizza Napolitana;70;10;Pizzas
+p8;Pizza de Rúcula c/ Tomate Seco;50;10;Pizzas
+p9;Pizza de Chocolate;40;5;Pizzas
+p10;Pizza de Banana c/ Canela;40;5;Pizzas
+s1;Coxinha de Frango;150;30;Salgados
+s2;Kibe de Carne;120;25;Salgados
+s3;Pastel de Carne;100;20;Salgados
+s4;Pastel de Queijo;100;20;Salgados
+s5;Empada de Palmito;80;15;Salgados
+s6;Enroladinho de Salsicha;120;20;Salgados
+s7;Risoles de Presunto e Queijo;100;20;Salgados
+s8;Pão de Queijo (Unidade);200;40;Salgados
+s9;Esfiha de Carne;100;20;Salgados
+s10;Bolinho de Bacalhau;80;15;Salgados
+po1;Batata Frita Simples;100;20;Porções
+po2;Batata c/ Cheddar e Bacon;80;15;Porções
+po3;Tábua de Churrasco Mista;30;5;Porções
+po4;Calabresa Acebolada;60;10;Porções
+po5;Frango a Passarinho;50;10;Porções
+po6;Iscas de Peixe Empanado;40;8;Porções
+po7;Anéis de Cebola;70;15;Porções
+po8;Polenta Frita;80;15;Porções
+po9;Bolinho de Queijo (Porção);60;10;Porções
+po10;Mix de Petiscos;40;5;Porções
+b1;Coca-Cola Lata 350ml;200;50;Bebidas
+b2;Suco de Laranja Natural;100;20;Bebidas
+b3;Água Mineral 500ml;300;50;Bebidas
+b4;Heineken Long Neck;120;24;Bebidas
+b5;Vinho Tinto Cabernet;40;10;Bebidas
+b6;Gin Tônica Especial;50;10;Bebidas
+b7;Cerveja Brahma 600ml;100;20;Bebidas
+b8;Suco de Uva Integral;60;15;Bebidas
+b9;Refrigerante Guaraná 2L;80;20;Bebidas
+b10;Whisky Red Label Dose;30;5;Bebidas
+c1;Combo Casal (2 Burgers + Frita + Refri);0;0;Combos
+c2;Combo Individual (Burger + Frita + Refri);0;0;Combos
+c3;Combo Pizza + Refri 2L;0;0;Combos
+c4;Combo Salgados (10 Unidades);0;0;Combos
+c5;Combo Happy Hour (Porção + 2 Cervejas);0;0;Combos
